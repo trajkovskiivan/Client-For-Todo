@@ -1,0 +1,3 @@
+[submodule "Todo-App"]
+	path = Todo-App
+	url = https://github.com/trajkovskiivan/Todo-App.git
